@@ -1,0 +1,5 @@
+$ mkdr github 
+$ cd github
+$ mkdir pushtest
+$ cd pushtest
+$ git init
