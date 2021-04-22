@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="ogawa hayase">
+<meta name="keywords" content="GitHub,やり方">
+<link rel="stylesheet" href="base.css">
+<link rel="stylesheet" media="screen and (max-width:800px)" href="base_sp.css">
+<link rel="stylesheet" media="print" href="print.css">
+<link rel="shortcut icon" href="favicon.ico">
+<title>4/22</title>
+</head>
+<body>
+<div id="pagebody">
+
+	<!-- ヘッダ -->
+	<div id="header">
+	<h1><a href="index.html"><img src="images/logo.png" alt="ogawa hayase"></a></h1>
+	</div>
+	
+	<!-- メインメニュー -->
+	<ul id="menu">
+	<li><a href="index.html">４月２２日行ったこと</a></li>
+　<li><a href="index.html">GitHubにてアカウント作成</a></li>
+ <li><a href="index.html">GitHubのフォルダ保管について学ぶ</a></li>
+	</ul>
+
+	<!-- ヘッダ画像 -->
+	<div id="img_index">
+	<img src="./images/img_index.png" alt="Hayase">
+	</div>
+  
+	<!-- フッタ -->
+	<div id="footer"><small>Today's task</small></div>
+
+</div>
+</body>
+</html>
