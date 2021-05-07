@@ -2,3 +2,7 @@ https://qiita.com/tokawa-ms/items/61ef4402aefa4f1ffd9f
 This is how to set up Remote Rendering.
 https://docs.microsoft.com/ja-jp/azure/remote-rendering/tutorials/unity/view-remote-models/view-remote-models
 This is how to start and work with detail Remote rendering in Unity.
+
+https://github.com/Azure/azure-remote-rendering
+This is clone file to use Remote Rendering. Just sample.
+Can replace another model. 
